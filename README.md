@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Automation Engineer | Web Developer
 -----------------------------------
 
-👋 Welcome to my GitHub profile! I'm Vinoth Kumar, an experienced API automation engineer and web developer passionate about crafting efficient and reliable software solutions. 🤖 As an API automation engineer, I specialize in designing, implementing, and maintaining robust automated test suites to ensure the quality and stability of APIs. I leverage various tools and frameworks to streamline the testing process and deliver high-quality software products. 💻 Additionally, I bring my expertise in web development to the table, with a focus on building scalable and user-friendly web applications. From front-end design to back-end implementation, I strive to create seamless digital experiences that meet both user needs and business objectives. 📚 Continuous learning is at the core of my professional journey, and I'm always exploring new technologies and methodologies to enhance my skills and stay ahead of industry trends.
+👋 Welcome to my GitHub profile! I'm Vinoth Kumar, an experienced API automation engineer and web developer passionate about crafting efficient and reliable software solutions. 
+🤖 As an API automation engineer, I specialize in designing, implementing, and maintaining robust automated test suites to ensure the quality and stability of APIs. 
+💻 Additionally, I bring my expertise in web development to the table, with a focus on building scalable and user-friendly web applications.
+📚 Continuous learning is at the core of my professional journey, and I'm always exploring new technologies and methodologies to enhance my skills and stay ahead of industry trends.
 
 * 🌍  I'm based in Chennai, TamilNadu.
 * 🤝  I'm open to collaborating on a variety of projects, including but not limited to: API Automation, Web Dev.
