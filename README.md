@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vinoth Kumar
 ====================================================================================================================================
 
-Automation Engineer | Web Developer
+API Automation Engineer | Web Developer
 -----------------------------------
 
 👋 Welcome to my GitHub profile! I'm Vinoth Kumar, an experienced API automation engineer and web developer passionate about crafting efficient and reliable software solutions. 
